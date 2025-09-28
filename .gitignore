@@ -2,6 +2,7 @@
 # Abaikan semua file dengan ekstensi .json dan .txt
 *.json
 *.txt
+*.zip
 
 # ---- Pengecualian (Wajib di-commit) ----
 # JANGAN abaikan file konfigurasi inti
